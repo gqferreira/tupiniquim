@@ -1,5 +1,5 @@
 # tupiniquim
-
+![alt text](https://github.com/gqferreira/tupiniquim/blob/main/exemplo.png?raw=true)
 ![alt text](https://github.com/gqferreira/tupiniquim/blob/main/tupiniquim.png?raw=true)
 
 [EN-US]
