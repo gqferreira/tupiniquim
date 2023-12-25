@@ -1,6 +1,6 @@
 # tupiniquim
 
-![alt text](https://github.com/gqferreira/tupiniquim/blob/maain/tupiniquim.png?raw=true)
+![alt text](https://github.com/gqferreira/tupiniquim/blob/main/tupiniquim.png?raw=true)
 
 [EN-US]
 The Tupiniquim project is a software for conceptual data modeling based on relational databases (MER). The tool was developed in Java as Graduation Work (2013) and allows the user to create visual diagrams with Drag & Drop technique. The software was developed using free software.
